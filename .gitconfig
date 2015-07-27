@@ -1,0 +1,18 @@
+[user]
+    email = oguyajames@gmail.com
+    name = James Oguya
+    signingkey = 7C8E2443
+# old expired key
+#   signingkey = EA471030
+[branch]
+    autosetuprebase = always
+[core]
+    editor = vim
+[push]
+    default = matching
+[gc]
+    auto = 1
+[alias]
+    tree=log --graph --decorate --oneline --all --abbrev-commit
+
+# vim: set sw=4 ts=4:
