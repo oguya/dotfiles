@@ -16,3 +16,5 @@ set background=dark
 colorscheme solarized
 set t_Co=16
 let g:solarized_termcolors=256
+set incsearch
+set hlsearch
